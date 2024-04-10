@@ -12,15 +12,10 @@ The project aims to optimize working capital management by leveraging accounts r
 ## Data Description
 ### Customer Data:
 - Customer ID: Unique identifier for each customer.
-
 - Customer Name: Name of the customer.
-
 - Customer Payment Terms: Terms and conditions for customer payments.
-
 - Address: Physical address or location of the customer.
-
 - Credit Limit: Maximum credit amount extended to the customer.
-
 ### Receivables Data:
 - Business Code: Code representing the type of business transaction.
 - Customer Number: Unique identifier for each customer.
