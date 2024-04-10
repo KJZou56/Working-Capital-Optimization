@@ -60,6 +60,7 @@ due.
 - Vendor Type: Type or category of the vendor/supplier.
 ## Tech Stack
 **Language:** Python
+
 **Libraries:** pandas, numpy, matplotlib, statsmodels, seaborn, scikit-learn, pyodbc
 ## Approach
 ### AR Data:
